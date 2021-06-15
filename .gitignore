@@ -1,7 +1,7 @@
 *.pickle
 *.csv
 *.xlsx
-elbow-graph.png
+*.png
 terms_completed.md
 terms.pdf
 terms.md
